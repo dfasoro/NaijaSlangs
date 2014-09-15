@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="NaijaSlangs">
+		<name >
+			Naija Slangs
+		</name>
+		<description >
+			Naija Slangs. LOL/LWKMD/IJGB
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			MacGrenor
+		</vendor>
+		<copyright >
+			Copyright (c) 2013 MacGrenor
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				NaijaSlangs.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
